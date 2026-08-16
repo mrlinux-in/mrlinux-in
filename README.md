@@ -13,15 +13,12 @@ I design, run, and automate production-grade infrastructure across multi-cloud a
 
 ### Core Competencies & Architecture
 
-┌─────────────────────────┐     ┌─────────────────────────┐     ┌─────────────────────────┐
-│     Cloud & Compute     │     │ Automation & Tooling    │     │ Monitoring & Security   │
-├─────────────────────────┤     ├─────────────────────────┤     ├─────────────────────────┤
-│ • AWS / Azure / GCP     │     │ • Python / Bash / Go    │     │ • Zabbix / Checkmk      │
-│ • Linux (RHEL / Ubuntu) │     │ • C++ / Kotlin          │     │ • Nginx / Apache / TLS  │
-│ • Proxmox VE / ESXi     │     │ • Playwright Engine     │     │ • DNS / pfSense / Solr  │
-│ • Linux Clustering      │     │ • GitHub Actions / CI   │     │ • PostgreSQL / Oracle   │
-└─────────────────────────┘     └─────────────────────────┘     └─────────────────────────┘
-
+| Cloud & Compute | Automation & Tooling | Monitoring & Security |
+| :--- | :--- | :--- |
+| • **AWS / Azure / GCP** | • **Python / Bash / Go** | • **Zabbix / Checkmk** |
+| • **Linux (RHEL / Ubuntu)** | • **C++ / Kotlin** | • **Nginx / Apache / TLS** |
+| • **Proxmox VE / ESXi** | • **Playwright Engine** | • **DNS / pfSense / Solr** |
+| • **Linux Clustering** | • **GitHub Actions / CI** | • **PostgreSQL / Oracle** |
 
 ---
 
