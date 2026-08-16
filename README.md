@@ -98,7 +98,7 @@ Bridging low-level systems engineering with application architecture, I develop 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrlinux-in&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Vikram's Contribution Graph" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrlinux-in&theme=tokyonight" alt="Vikram's Total Lifetime Contributions" />
 
 </div>
 
