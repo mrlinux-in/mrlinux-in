@@ -36,9 +36,8 @@ Databases/Data  ::  PostgreSQL, Oracle DB, Apache Solr, Nextcloud, LDAP
 
 ---
 
-### GitHub Statistics
+### Activity & Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrlinux-in&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlinux-in&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</p>
+[![Total Commits](https://img.shields.io/badge/dynamic/json?color=blue&label=Commits%20(2026)&query=%24.total&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3Amrlinux-in&style=flat-square&logo=git)](#)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmrlinux-in&style=flat-square&logo=github)](#)
+[![Followers](https://img.shields.io/badge/dynamic/json?color=orange&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmrlinux-in&style=flat-square&logo=github)](#)
