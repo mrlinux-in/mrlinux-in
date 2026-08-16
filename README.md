@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikramsingh3902)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Vikramsingh3902@gmail.com)
-[![Infrastructure](https://img.shields.io/badge/Focus-Cloud%20%7C%20Linux%20%7C%20Observability-0969da?style=flat-square)](#)
+[![Infrastructure](https://img.shields.io/badge/Focus-Cloud%20%7C%20Linux%20%7C%20Observability%20%7C%20Automation-0969da?style=flat-square)](#)
 
 ---
 
