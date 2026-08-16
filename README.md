@@ -61,3 +61,11 @@ Databases/Data  ::  PostgreSQL, Oracle DB, Apache Solr, Nextcloud, LDAP
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrlinux-in&theme=tokyonight" width="95%" alt="Total Contributions Summary" />
 </p>
+
+
+### Total Contributions & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mrlinux-in&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mrlinux-in&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+</p>
