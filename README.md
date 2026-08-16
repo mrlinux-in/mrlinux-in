@@ -53,17 +53,6 @@ I design, run, and automate production-grade infrastructure across multi-cloud a
 
 ---
 
-### Featured Repositories
-
-| Repository | Scope | Stack |
-| :--- | :--- | :--- |
-| [**infra-vm-provisioner**](#) | Automated VM lifecycle, hardening, and baseline drift prevention | Bash, Shell, Proxmox API |
-| [**ops-sentinel-monitor**](#) | Lightweight daemon monitoring system health, daemons, and SSL certificates | Python, Bash, Zabbix API |
-| [**playwright-infra-e2e**](#) | Automated regression validation suite with automated error capture | Python, Playwright, CI/CD |
-| [**go-sysmetrics-collector**](#) | High-performance, low-footprint systems telemetry exporter | Go, Linux Sockets |
-
----
-
 ### Production Operations Focus
 
 - **High Availability & SRE:** Active-passive/active-active failover, service degradation mitigation, and fast MTTR workflows.
