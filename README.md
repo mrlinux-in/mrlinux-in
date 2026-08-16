@@ -107,12 +107,8 @@ With deep expertise bridging low-level systems engineering and software delivery
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrlinux-in&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vikram's GitHub Stats" height="165" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrlinux-in&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrlinux-in&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrlinux-in&show_icons=true&theme=tokyonight&hide_border=true" alt="Vikram's GitHub Stats" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrlinux-in&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 
 </div>
 
