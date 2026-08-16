@@ -10,8 +10,8 @@
 
 I design, automate, and operate production-grade infrastructure across multi-cloud and on-prem environments. Focused on high availability, MTTR reduction, observability, and infrastructure-as-code.
 
-- 🔭 **Current Focus:** Cloud Ops (AWS/GCP/Azure), Linux clustering, hypervisors, and automation pipelines.
-- ⚡ **Core Rule:** Eliminate toil — if a task runs twice, turn it into code.
+- 🔭 **Current Focus:** Cloud Ops (AWS/GCP/Azure), Linux clustering, hypervisors, and automated CI/CD pipelines.
+- ⚡ **Core Philosophy:** Eliminate toil — if a task runs twice, turn it into code.
 - 🛠️ **Systems & Core:** Linux (RHEL/Ubuntu), Bash, Python, Go, C++, Kotlin.
 
 ---
@@ -27,19 +27,6 @@ Databases/Data  ::  PostgreSQL, Oracle DB, Apache Solr, Nextcloud, LDAP
 
 ---
 
-### Dynamic Engineering Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrlinux-in&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Commit Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrlinux-in&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=mrlinux-in&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=4" height="150" alt="GitHub Trophies" />
-</p>
-
----
-
 ### Featured Repositories
 
 | Repository | Focus | Tech Stack |
@@ -48,3 +35,11 @@ Databases/Data  ::  PostgreSQL, Oracle DB, Apache Solr, Nextcloud, LDAP
 | [**ops-health-monitor-suite**](#) | Proactive Linux system, daemon & SSL monitoring with alert hooks | Python, Bash, Zabbix API |
 | [**autotest-playwright-framework**](#) | Headless browser validation engine with automated artifact triage | Python, Playwright, CI/CD |
 | [**go-netprobe-cli**](#) | High-concurrency network diagnostic & port-check daemon | Go, Raw Sockets |
+
+---
+
+### Dynamic Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrlinux-in&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Commit Activity Graph" />
+</p>
