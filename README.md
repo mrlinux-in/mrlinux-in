@@ -98,7 +98,7 @@ Bridging low-level systems engineering with application architecture, I develop 
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrlinux-in&hide=stars,prs,issues,contribs&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true" alt="Vikram's Total Commits" height="150" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrlinux-in&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Vikram's Contribution Graph" width="100%" />
 
 </div>
 
