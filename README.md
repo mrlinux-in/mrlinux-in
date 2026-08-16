@@ -3,69 +3,69 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikramsingh3902)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Vikramsingh3902@gmail.com)
-[![Public Repos](https://img.shields.io/badge/dynamic/json?color=2ea44f&label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmrlinux-in&style=flat-square&logo=github)](#)
-[![Followers](https://img.shields.io/badge/dynamic/json?color=0969da&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmrlinux-in&style=flat-square&logo=github)](#)
+[![Infrastructure](https://img.shields.io/badge/Focus-Cloud%20%7C%20Linux%20%7C%20Observability-0969da?style=flat-square)](#)
 
 ---
 
-I design, automate, and operate production-grade infrastructure across multi-cloud and on-prem environments. Focused on high availability, MTTR reduction, observability, and infrastructure-as-code.
-
-- 🔭 **Current Focus:** Cloud Ops (AWS/GCP/Azure), Linux clustering, hypervisors, and automated CI/CD pipelines.
-- ⚡ **Core Philosophy:** Eliminate toil — if a task runs twice, turn it into code.
-- 🛠️ **Systems & Core:** Linux (RHEL/Ubuntu), Bash, Python, Go, C++, Kotlin.
+I design, run, and automate production-grade infrastructure across multi-cloud and on-prem environments. My work centers on high availability, MTTR reduction, enterprise monitoring, and replacing manual runbooks with robust automation.
 
 ---
 
-### Tech Stack & Tooling
+### Core Competencies & Architecture
 
-Infrastructure  ::  Linux (RHEL/Ubuntu), AWS, Azure, GCP, Proxmox VE, VMware ESXi
-Automation/CI   ::  Bash/Shell, Python, Go, C++, Kotlin, Playwright, GitLab CI, GitHub Actions, Docker
-Observability   ::  Zabbix, Checkmk, CloudWatch, Prometheus, Log Analytics
-Network/Security::  Nginx, Apache, pfSense, Sophos XG, DNS/dnsdist, SSL/TLS, Asterisk/SIP
-Databases/Data  ::  PostgreSQL, Oracle DB, Apache Solr, Nextcloud, LDAP
+┌─────────────────────────┐     ┌─────────────────────────┐     ┌─────────────────────────┐
+│     Cloud & Compute     │     │ Automation & Tooling    │     │ Monitoring & Security   │
+├─────────────────────────┤     ├─────────────────────────┤     ├─────────────────────────┤
+│ • AWS / Azure / GCP     │     │ • Python / Bash / Go    │     │ • Zabbix / Checkmk      │
+│ • Linux (RHEL / Ubuntu) │     │ • C++ / Kotlin          │     │ • Nginx / Apache / TLS  │
+│ • Proxmox VE / ESXi     │     │ • Playwright Engine     │     │ • DNS / pfSense / Solr  │
+│ • Linux Clustering      │     │ • GitHub Actions / CI   │     │ • PostgreSQL / Oracle   │
+└─────────────────────────┘     └─────────────────────────┘     └─────────────────────────┘
 
 
 ---
+
+### Technology Stack
+
+**Cloud & Virtualization**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_RHEL_Ubuntu-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Proxmox](https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware_ESXi-607078?style=flat-square&logo=vmware&logoColor=white)
+
+**Languages & Automation**  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+**Observability, Networking & Databases**  
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
+![Checkmk](https://img.shields.io/badge/Checkmk-004B57?style=flat-square&logo=checkmk&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 ---
 
 ### Featured Repositories
 
-| Repository | Focus | Tech Stack |
+| Repository | Scope | Stack |
 | :--- | :--- | :--- |
-| [**infra-hypervisor-provisioner**](#) | Automated VM lifecycle & baseline hardening for Proxmox/ESXi | Bash, Shell, Proxmox API |
-| [**ops-health-monitor-suite**](#) | Proactive Linux system, daemon & SSL monitoring with alert hooks | Python, Bash, Zabbix API |
-| [**autotest-playwright-framework**](#) | Headless browser validation engine with automated artifact triage | Python, Playwright, CI/CD |
-| [**go-netprobe-cli**](#) | High-concurrency network diagnostic & port-check daemon | Go, Raw Sockets |
+| [**infra-vm-provisioner**](#) | Automated VM lifecycle, hardening, and baseline drift prevention | Bash, Shell, Proxmox API |
+| [**ops-sentinel-monitor**](#) | Lightweight daemon monitoring system health, daemons, and SSL certificates | Python, Bash, Zabbix API |
+| [**playwright-infra-e2e**](#) | Automated regression validation suite with automated error capture | Python, Playwright, CI/CD |
+| [**go-sysmetrics-collector**](#) | High-performance, low-footprint systems telemetry exporter | Go, Linux Sockets |
 
 ---
 
-### Dynamic Activity & Contributions
+### Production Operations Focus
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrlinux-in&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Commit Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrlinux-in&theme=tokyonight&no-frame=true&no-bg=true&only=Commits,PullRequest,Reviews,MultipleLang" height="130" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrlinux-in&theme=tokyonight" width="95%" alt="Total Contributions Summary" />
-</p>
-
-
-
-### Total Contributions & Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrlinux-in&theme=tokyonight" width="95%" alt="Total Contributions Summary" />
-</p>
-
-
-### Total Contributions & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=mrlinux-in&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mrlinux-in&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
-</p>
+- **High Availability & SRE:** Active-passive/active-active failover, service degradation mitigation, and fast MTTR workflows.
+- **Monitoring & Alert Hygiene:** Dependency mapping, alert suppression, and anomaly detection via Zabbix and Checkmk.
+- **Security & Hardening:** TLS/SSL automation, reverse proxy routing, DNS filtering, and firewall boundary controls.
