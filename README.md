@@ -27,6 +27,8 @@ Databases/Data  ::  PostgreSQL, Oracle DB, Apache Solr, Nextcloud, LDAP
 
 ---
 
+---
+
 ### Featured Repositories
 
 | Repository | Focus | Tech Stack |
@@ -38,8 +40,16 @@ Databases/Data  ::  PostgreSQL, Oracle DB, Apache Solr, Nextcloud, LDAP
 
 ---
 
-### Dynamic Activity
+### Dynamic Activity & Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrlinux-in&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Commit Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrlinux-in&theme=tokyonight&no-frame=true&no-bg=true&only=Commits,PullRequest,Reviews,MultipleLang" height="130" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrlinux-in&theme=tokyonight" width="95%" alt="Total Contributions Summary" />
 </p>
