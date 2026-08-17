@@ -4,8 +4,8 @@
 ### Cloud Service Operations, Infrastructure & Application Engineer
 
 [![Website](https://img.shields.io/badge/Website-mrlinux.in-181717?style=flat-square&logo=googlechrome&logoColor=white)](https://mrlinux.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vikramsingh3902-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikramsingh3902)
-[![Email](https://img.shields.io/badge/Email-Vikramsingh3902%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Vikramsingh3902@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mrlinux--in-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrlinux-in/)
+[![Email](https://img.shields.io/badge/Email-vikram%40mrlinux.in-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vikram@mrlinux.in)
 [![GitHub](https://img.shields.io/badge/GitHub-mrlinux--in-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mrlinux-in)
 
 </div>
@@ -106,7 +106,7 @@ Bridging low-level systems engineering with application architecture, I develop 
 
 <div align="center">
 
-**[mrlinux.in](https://mrlinux.in)** • **[LinkedIn](https://linkedin.com/in/vikramsingh3902)** • **[Email](mailto:Vikramsingh3902@gmail.com)** • **[GitHub](https://github.com/mrlinux-in)**
+**[mrlinux.in](https://mrlinux.in)** • **[LinkedIn](https://www.linkedin.com/in/mrlinux-in/)** • **[Email](mailto:vikram@mrlinux.in)** • **[GitHub](https://github.com/mrlinux-in)**
 
 *Focused on High Availability, Deterministic Automation, and Secure Systems Architecture.*
 
